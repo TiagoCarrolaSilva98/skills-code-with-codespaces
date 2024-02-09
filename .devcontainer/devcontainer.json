@@ -2,7 +2,7 @@
   // Name this configuration
   "name": "Codespace for Skills!",
   "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
-  "remoteUser": "codespace",
+  "remoteUser": "codespaces",
   "overrideCommand": false ,
   
   // Add the IDs of extensions you want installed when the container is created.
